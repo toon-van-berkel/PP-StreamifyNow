@@ -1,0 +1,62 @@
+[
+    {
+        "title": "The Lego Batman Movie",
+        "ttCode": "tt4116284",
+        "banner": "https://pics.soap2day.day/t/p/w185/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+        "description": "Batman works with a team to defeat the Joker and save Gotham City."
+    },
+    {
+        "title": "Inception",
+        "ttCode": "tt1375666",
+        "banner": "https://thespotlightreport.wordpress.com/wp-content/uploads/2010/05/inceptionbanner6.jpg",
+        "description": "A skilled thief is offered a chance to have his past crimes forgiven, as payment for planting an idea into a CEO's mind."
+    },
+    {
+        "title": "The Dark Knight",
+        "ttCode": "tt0468569",
+        "banner": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "description": "Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+        "title": "Interstellar",
+        "ttCode": "tt0816692",
+        "banner": "https://m.media-amazon.com/images/I/51AOGnnG2YL._AC_UF894,1000_QL80_.jpg",
+        "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival."
+    },
+    {
+        "title": "The Matrix",
+        "ttCode": "tt0133093",
+        "banner": "https://nz.originalfilmart.com/cdn/shop/products/the_matrix_1999_fr_original_film_art_a_600x.jpg?v=1640646540",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+    },
+    {
+        "title": "Pulp Fiction",
+        "ttCode": "tt0110912",
+        "banner": "https://static.posters.cz/image/750/1288.jpg",
+        "description": "The lives of two mob hitmen, a boxer, a gangster, and his wife intertwine in four tales of violence and redemption."
+    },
+    {
+        "title": "Forrest Gump",
+        "ttCode": "tt0109830",
+        "banner": "https://i.ebayimg.com/images/g/REQAAOSwB09YCplj/s-l400.jpg",
+        "description": "The story of Forrest Gump, a man with a low IQ, who accomplishes incredible things in his life and meets historical figures along the way."
+    },
+    {
+        "title": "Fight Club",
+        "ttCode": "tt0137523",
+        "banner": "https://i.etsystatic.com/18242346/r/il/c9908e/2412674268/il_570xN.2412674268_1sgm.jpg",
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into much more."
+    },
+    {
+        "title": "The Godfather",
+        "ttCode": "tt0068646",
+        "banner": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Godfather%2C_The_Game.jpg",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son."
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "ttCode": "tt0111161",
+        "banner": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_SY679_.jpg",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    }
+]
