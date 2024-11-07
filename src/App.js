@@ -45,13 +45,13 @@ const App = () => {
                         path="/"
                         element={
                             <div>
-                                <div className="bg-info p-3 rounded my-3">
+                                <div className="p-3 rounded my-3">
                                     <h2>Trending</h2>
                                     <div className="d-flex flex-wrap gap-3 mt-2">
                                         {movies.map((movie) => (
                                             <Link to={`/movie/${movie.ttCode}`} className="text-dark text-decoration-none" key={movie.ttCode}>
-                                                <div className="card" style={{ width: '10rem' }}>
-                                                    <img src={movie.banner} className="card-img-top" alt={`${movie.title} banner`} />
+                                                <div className="card" style={{ width: '10rem', Height: '300px'}}>
+                                                    <img src={movie.banner} className="card-img-top" alt={`${movie.title} banner`} style={{Height: '200px'}} />
                                                     <div className="card-body text-center">
                                                         <h5 className="card-title">{movie.title}</h5>
                                                     </div>

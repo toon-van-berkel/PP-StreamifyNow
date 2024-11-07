@@ -58,5 +58,119 @@
         "ttCode": "tt0111161",
         "banner": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_SY679_.jpg",
         "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+        "title": "Gladiator",
+        "ttCode": "tt0172495",
+        "banner": "https://m.media-amazon.com/images/I/51J4e8b2vtL._AC_.jpg",
+        "description": "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    },
+    {
+        "title": "Braveheart",
+        "ttCode": "tt0112573",
+        "banner": "https://m.media-amazon.com/images/I/51xb7clG5zL._AC_.jpg",
+        "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+    },
+    {
+        "title": "Titanic",
+        "ttCode": "tt0120338",
+        "banner": "https://m.media-amazon.com/images/I/51XyKZ5G3cL._AC_.jpg",
+        "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+    },
+    {
+        "title": "Saving Private Ryan",
+        "ttCode": "tt0120815",
+        "banner": "https://m.media-amazon.com/images/I/41ADVp4NQHL._AC_.jpg",
+        "description": "During the Normandy Invasion of World War II, a group of U.S. soldiers goes behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "ttCode": "tt0102926",
+        "banner": "https://m.media-amazon.com/images/I/41EMRTfZT3L._AC_.jpg",
+        "description": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer."
+    },
+    {
+        "title": "Schindler's List",
+        "ttCode": "tt0108052",
+        "banner": "https://m.media-amazon.com/images/I/51xZijOKT3L._AC_.jpg",
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    {
+        "title": "Goodfellas",
+        "ttCode": "tt0099685",
+        "banner": "https://m.media-amazon.com/images/I/51HHG7nziqL._AC_.jpg",
+        "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife and his mob partners over a period of 25 years."
+    },
+    {
+        "title": "The Green Mile",
+        "ttCode": "tt0120689",
+        "banner": "https://m.media-amazon.com/images/I/51IpzZ73E-L._AC_.jpg",
+        "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+    },
+    {
+        "title": "The Departed",
+        "ttCode": "tt0407887",
+        "banner": "https://m.media-amazon.com/images/I/41RQLD8aTgL._AC_.jpg",
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+    },
+    {
+        "title": "American Beauty",
+        "ttCode": "tt0169547",
+        "banner": "https://m.media-amazon.com/images/I/41LtFs0rNsL._AC_.jpg",
+        "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+    },
+    {
+        "title": "Avatar",
+        "ttCode": "tt0499549",
+        "banner": "https://m.media-amazon.com/images/I/41EdAedF7TL._AC_.jpg",
+        "description": "A paraplegic Marine on an alien planet becomes torn between following his orders and protecting the world he feels is his home."
+    },
+    {
+        "title": "The Lion King",
+        "ttCode": "tt0110357",
+        "banner": "https://m.media-amazon.com/images/I/51G5+3cHzcL._AC_.jpg",
+        "description": "A lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile."
+    },
+    {
+        "title": "Jurassic Park",
+        "ttCode": "tt0107290",
+        "banner": "https://m.media-amazon.com/images/I/51yVYhf9FyL._AC_.jpg",
+        "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok."
+    },
+    {
+        "title": "The Avengers",
+        "ttCode": "tt0848228",
+        "banner": "https://m.media-amazon.com/images/I/61D-s-yhc6L._AC_SY679_.jpg",
+        "description": "Earth's mightiest heroes must come together to stop a mischievous god and an alien invasion that threatens humanity."
+    },
+    {
+        "title": "The Hobbit: An Unexpected Journey",
+        "ttCode": "tt0903624",
+        "banner": "https://m.media-amazon.com/images/I/51IYazbmMnL._AC_.jpg",
+        "description": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home."
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "ttCode": "tt10872600",
+        "banner": "https://m.media-amazon.com/images/I/61JZij2PEuL._AC_SY679_.jpg",
+        "description": "Peter Parker's secret identity is exposed, bringing him, his friends, and his loved ones into grave danger."
+    },
+    {
+        "title": "The Social Network",
+        "ttCode": "tt1285016",
+        "banner": "https://m.media-amazon.com/images/I/51xZPMHUmHL._AC_.jpg",
+        "description": "Mark Zuckerberg creates Facebook and is later sued by twins who claim he stole their idea and by a co-founder who was later squeezed out."
+    },
+    {
+        "title": "Avengers: Endgame",
+        "ttCode": "tt4154796",
+        "banner": "https://m.media-amazon.com/images/I/51p0ZyT8g9L._AC_.jpg",
+        "description": "The Avengers assemble once more to reverse the actions of Thanos and restore balance to the universe."
+    },
+    {
+        "title": "Toy Story",
+        "ttCode": "tt0114709",
+        "banner": "https://m.media-amazon.com/images/I/41GCfD2FtXL._AC_.jpg",
+        "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room."
     }
 ]
