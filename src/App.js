@@ -1,28 +1,43 @@
-import React from 'react';
+import React from 'react'; 
 import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import MovieDetail from './components/MovieDetail';
 import movies from './movies.json';
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
     return (
         <Router>
             <div className="container">
-                <header className="navbar">
-                    <h1>
-                        <Link to="/" className="logo-link">StreamifyNow</Link>
-                    </h1>
-                    <nav className="nav-links">
-                        <Link to="/">Home</Link>
-                        <Link to="/genre">Genre</Link>
-                        <Link to="/country">Country</Link>
-                        <Link to="/movies">Movies</Link>
-                        <Link to="/tvshows">TV Shows</Link>
+                <header>
+                    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+                        <Link to="/" className="navbar-brand">StreamifyNow</Link>
+                        <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span className="navbar-toggler-icon"></span>
+                        </button>
+                        <div className="collapse navbar-collapse" id="navbarNav">
+                            <ul className="navbar-nav me-auto">
+                                <li className="nav-item">
+                                    <Link to="/" className="nav-link">Home</Link>
+                                </li>
+                                <li className="nav-item">
+                                    <Link to="/genre" className="nav-link">Genre</Link>
+                                </li>
+                                <li className="nav-item">
+                                    <Link to="/country" className="nav-link">Country</Link>
+                                </li>
+                                <li className="nav-item">
+                                    <Link to="/movies" className="nav-link">Movies</Link>
+                                </li>
+                                <li className="nav-item">
+                                    <Link to="/tvshows" className="nav-link">TV Shows</Link>
+                                </li>
+                            </ul>
+                            <div className="d-flex">
+                                <button className="btn btn-primary me-2">Login</button>
+                                <button className="btn btn-success">Sign Up</button>
+                            </div>
+                        </div>
                     </nav>
-                    <div className="login-buttons">
-                        <button className="login">Login</button>
-                        <button className="signup">Sign Up</button>
-                    </div>
                 </header>
 
                 <Routes>
@@ -30,13 +45,17 @@ const App = () => {
                         path="/"
                         element={
                             <div>
-                                <div className="section">
+                                <div className="bg-info p-3 rounded my-3">
                                     <h2>Trending</h2>
-                                    <div className="movie-container">
+                                    <div className="d-flex flex-wrap gap-3 mt-2">
                                         {movies.map((movie) => (
-                                            <Link to={`/movie/${movie.ttCode}`} className="movie-card" key={movie.ttCode}>
-                                                <img src={movie.banner} alt={`${movie.title} banner`} className="banner-image" />
-                                                <h3>{movie.title}</h3>
+                                            <Link to={`/movie/${movie.ttCode}`} className="text-dark text-decoration-none" key={movie.ttCode}>
+                                                <div className="card" style={{ width: '10rem' }}>
+                                                    <img src={movie.banner} className="card-img-top" alt={`${movie.title} banner`} />
+                                                    <div className="card-body text-center">
+                                                        <h5 className="card-title">{movie.title}</h5>
+                                                    </div>
+                                                </div>
                                             </Link>
                                         ))}
                                     </div>
