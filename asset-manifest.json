@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/StreamifyNow/static/css/main.d221dc40.css",
-    "main.js": "/StreamifyNow/static/js/main.17ba52bb.js",
+    "main.js": "/StreamifyNow/static/js/main.b4b31512.js",
     "index.html": "/StreamifyNow/index.html",
     "main.d221dc40.css.map": "/StreamifyNow/static/css/main.d221dc40.css.map",
-    "main.17ba52bb.js.map": "/StreamifyNow/static/js/main.17ba52bb.js.map"
+    "main.b4b31512.js.map": "/StreamifyNow/static/js/main.b4b31512.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
-    "static/js/main.17ba52bb.js"
+    "static/js/main.b4b31512.js"
   ]
 }
